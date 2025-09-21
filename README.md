@@ -12,6 +12,7 @@ Centering divs for a living <br/><br/>
 <a href="https://github.com/topics/postgres" target="_blank"><code><img height="20" alt="postgres" src="https://avatars.githubusercontent.com/u/177543?s=48&v=4"></code></a>
 <a href="https://github.com/topics/elixir" target="_blank"><code><img height="20" alt="elixir" src="https://avatars.githubusercontent.com/u/1481354?s=48&v=4"></code></a>
 <a href="https://github.com/phoenixframework/phoenix" target="_blank"><code><img height="20" alt="phoenix" src="https://avatars.githubusercontent.com/u/6510388?s=48&v=4"></code></a>
+<a href="https://github.com/topics/go" target="_blank"><code><img height="20" alt="golang" src="https://github.com/github/explore/blob/main/topics/go/go.png?raw=true"></code></a>
 
 <img src="./madeyoulook.webp" alt="i'm too lazy to put something here" />
 
